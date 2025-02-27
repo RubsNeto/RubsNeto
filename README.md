@@ -16,9 +16,9 @@
 	About Me...
 </h3>
 
-- 👨🏻‍💻 Full Stack Developer (HTML, CSS, JavaScript, Python, Django)
+- 👨🏻‍💻 Full Stack Developer (NextJs, React, TypeScript, JavaScript, Java, C/C++, C# Python, Django)
 - 🏆 Gold Medalist at the 2024 Programming Marathon (UFJ)
-- 🎨 UI/UX Designer (Figma, Photoshop, Illustrator)
+- 🎨 UI/UX Designer (Figma, Photoshop, Illustrator, Frammer)
 - 🏴‍☠️ Currently working on web solutions & problem-solving challenges
 - 📫 Reach me at: [rubsneto.016@gmail.com](mailto:rubsneto.016@gmail.com)
 
