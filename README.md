@@ -16,7 +16,7 @@
 	About Me...
 </h3>
 
-- 👨🏻‍💻 Full Stack Developer (NextJs, React, TypeScript, JavaScript, C/C++, C#, Python, Django)
+- 👨🏻‍💻 Dev. Full-Stack (NextJs, React, TypeScript, JavaScript, C/C++, C#, Python, Django)
 - 🏴‍☠️ Currently working on web solutions & problem-solving challenges
 - 🎨 UI/UX Designer (Figma, Photoshop, Illustrator, Frammer)
 - 🏆 Gold Medalist at the 2024 Programming Marathon (UFJ)
