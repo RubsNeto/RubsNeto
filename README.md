@@ -11,7 +11,7 @@
 	<img
 		src="https://i.gifer.com/origin/8e/8ebe54609d9eba185c1b5cc930f204f3_w200.gif"
 		width="13" />
-	About Me...
+	About Me:
 </h3>
 
 - 👨🏻‍💻 Full-Stack (NextJs, React, TypeScript, JavaScript, C/C++, C#, Python, Django)
