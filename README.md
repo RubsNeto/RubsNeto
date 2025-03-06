@@ -1,8 +1,8 @@
 <h1>
 	<img
-		src="https://i.pinimg.com/originals/a7/1c/11/a71c1120763e9b9690461cee3f3218c6.gif"
+		src="https://www.gifcen.com/wp-content/uploads/2022/09/png-gif-1.gif"
 		width="30" />
-	Dig into the code and automate your world!
+	SUUUP!! Welcome to my git
 </h1>
 
 <br>
@@ -11,7 +11,7 @@
 
 <h3>
 	<img
-		src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif"
+		src="https://i.gifer.com/XOsX.gif"
 		width="20" />
 	About Me...
 </h3>
@@ -22,8 +22,21 @@
 - 🏆 Gold Medalist at the 2024 Programming Marathon (UFJ)
 - 📫 Reach me at: [rubsneto.016@gmail.com](mailto:rubsneto.016@gmail.com)
 
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
 
+<div align="left">
+<img src="https://skillicons.dev/icons?i=nextjs" width="30" alt="Next.js" />
+<img src="https://skillicons.dev/icons?i=react" width="30" alt="React" />
+<img src="https://skillicons.dev/icons?i=ts" width="30" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=js" width="30" alt="JavaScript" />
+<img src="https://skillicons.dev/icons?i=cpp" width="30" alt="C++" />
+<img src="https://skillicons.dev/icons?i=cs" width="30" alt="C#" /> 
+<img src="https://skillicons.dev/icons?i=python" width="30" alt="Python" />
+<img src="https://skillicons.dev/icons?i=django" width="30" alt="Django" />
+<img src="https://skillicons.dev/icons?i=figma" width="30" alt="Figma" />  
+</div>
+
+
+<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
 ---
 
 ![Visitor Count](https://profile-counter.glitch.me/RubsNeto/count.svg)
