@@ -2,7 +2,7 @@
 	<img
 		src="https://media2.giphy.com/media/sMr8GWbIPvSfe/200w.gif"
 		width="20px" />
-	SUUUP!! Welcome to my git fight-club!
+	SUUUP!! Welcome to my git Fight-Club!
 </h1>
 
 <img align="right" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/86abb766-4717-427e-99d7-3e0d97d15f1b/dapulvt-a43753e0-17db-4b20-9302-f819c6ea3faf.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg2YWJiNzY2LTQ3MTctNDI3ZS05OWQ3LTNlMGQ5N2QxNWYxYlwvZGFwdWx2dC1hNDM3NTNlMC0xN2RiLTRiMjAtOTMwMi1mODE5YzZlYTNmYWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LwYmqfQxGw5g-KDDk96g8AOILmbIqSy2FaEHuB-UmBQ" style=" width:300px;border-radius: 24px; padding-top: 4rem;" />
@@ -14,7 +14,7 @@
 	About Me...
 </h3>
 
-- 👨🏻‍💻 Dev. Full-Stack (NextJs, React, TypeScript, JavaScript, C/C++, C#, Python, Django)
+- 👨🏻‍💻 Dev. Full-Stack(NextJs, React, TypeScript, JavaScript, C/C++, C#, Python, Django)
 - 🏴‍☠️ Currently working on web solutions & problem-solving challenges
 - 🎨 UI/UX Designer (Figma, Photoshop, Illustrator, Frammer)
 - 🏆 Gold Medalist at the 2024 Programming Marathon (UFJ)
