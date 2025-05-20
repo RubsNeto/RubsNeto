@@ -14,10 +14,10 @@
 	About Me:
 </h3>
 
+- 🏆 Gold Medalist at the 2024 Programming Marathon (UFJ)
 - 👨🏻‍💻 Full-Stack (NextJs, React, TypeScript, JavaScript, C/C++, C#, Python, Django)
 - 🏴‍☠️ Currently working on web solutions & problem-solving challenges
 - 🎨 UI/UX Designer (Figma, Photoshop, Illustrator, Frammer)
-- 🏆 Gold Medalist at the 2024 Programming Marathon (UFJ)
 - 📫 Reach me at: [rubsneto.016@gmail.com](mailto:rubsneto.016@gmail.com)
 
 
