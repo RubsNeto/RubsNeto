@@ -34,9 +34,8 @@
 </div>
 
 
-<img src="https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg">
----
-
-![Visitor Count](https://profile-counter.glitch.me/RubsNeto/count.svg)
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rubsneto/rubsneto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rubsneto/rubsneto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rubsneto/rubsneto/output/pacman-contribution-graph.svg">
+</picture>
